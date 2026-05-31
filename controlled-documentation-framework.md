@@ -3,7 +3,7 @@
 
 ## Challenge
 
-IT teams maintained multiple document versions with no central governance process.
+IT teams maintained multiple document versions with no central governance process running the risk of potential audit failure.
 
 ## Approach
 
@@ -15,4 +15,4 @@ Elements of the framework were later incorporated into organizational governance
 
 ## Evidence
 
-link
+[Controlled Documentation Framework](DOCS/Controlled_Process_Development_Team_Environment.pdf)
