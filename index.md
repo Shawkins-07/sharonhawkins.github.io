@@ -52,7 +52,7 @@ Demonstrates:
 - Terminology management
 - Content quality
 
-[View Style Governance Wiki Case Study](DOCS/Style_wiki_Sample.pdf)
+[View Style Governance Wiki Case Study](DOCS/Style_wiki_Sample.html)
 
 ### GxP Training Program
 
