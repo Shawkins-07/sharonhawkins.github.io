@@ -1,12 +1,18 @@
 # Controlled Documentation Framework
 
 
-### Challenge
+## Challenge
 
-### Audience
+IT teams maintained multiple document versions with no central governance process.
 
-### Approach
+## Approach
 
-### Outcome
+Partnered with Quality and IT leadership to design a controlled documentation lifecycle incorporating metadata, approval workflows, version control, audit readiness, and repository governance.
 
-### Samples (PDF Link)
+## Outcome
+
+Elements of the framework were later incorporated into organizational governance initiatives.
+
+## Evidence
+
+link
