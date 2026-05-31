@@ -34,4 +34,4 @@ Developed a team wiki that provides guidance for creating maintainable, secure, 
 
 ## Deliverables
 
-- [Shell Scripting Guidelines PDF](DOCS/Shell Scripting Guidelines-Published.pdf)
+- [Shell Scripting Guidelines PDF](DOCS/Shell_Scripting_Guidelines-Published.pdf)
