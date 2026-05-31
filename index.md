@@ -11,7 +11,7 @@ Project professional with experience in:
 - Requirements analysis
 - Project coordination
 
-[Sharon Hawkins Resume](resume.html)
+[View My Resume](DOCS/Sharon Hawkins Tech Ed 2026.pdf)
 
 
 ## Portfolio
