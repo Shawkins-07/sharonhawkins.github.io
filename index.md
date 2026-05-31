@@ -18,7 +18,11 @@ Project professional with experience in:
 
 ### Technical Documentation
 
-- [Shell Scripting Guidelines](shell-scripting-guidelines.html)
+#### Shell Scripting Guidelines
+
+Developed a team wiki providing guidance for creating maintainable, secure, and reliable shell scripts used in operational and automation workflows.
+
+- [Project Overview](shell-scripting-guidelines.html)
 
 ### Process Improvement
 
