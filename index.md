@@ -8,10 +8,11 @@ I help organizations improve communication, knowledge transfer, documentation qu
 
 Project professional with experience in:
 
-- Technical documentation
-- Requirements analysis
-- Process improvement
-- Project coordination
+- Technical Editing
+- Documentation Governance
+- Knowledge Management
+- Training & Enablement
+- Process Improvement & Analysis
 
 [View My Resume](DOCS/Sharon Hawkins Tech Ed 2026.pdf)
 
@@ -26,9 +27,9 @@ Developed a team wiki providing guidance for creating maintainable, secure, and 
 
 - [Project Overview](shell-scripting-guidelines.html)
 
-#### Technical Review & RFP Editing
+<!--#### Technical Review & RFP Editing
 
-#### White Paper Editing
+#### White Paper Editing -->
 
 ### Documentation Governance
 
