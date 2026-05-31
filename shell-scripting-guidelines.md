@@ -2,7 +2,14 @@
 
 ## Overview
 
-This project involved developing a practical shell scripting guideline for development and operations teams.
+Developed a team wiki that provides guidance for creating maintainable, secure, and reliable shell scripts.
+
+## Audience
+
+- Developers
+- System Administrators
+- IT Architects
+- Project Team Members
 
 ## Objectives
 
@@ -12,13 +19,19 @@ This project involved developing a practical shell scripting guideline for devel
 
 ## My Contributions
 
-- Organized SME content
-- Developed document structure
-- Added validation guidance
-- Added maintenance considerations
+- Organized subject matter expert (SME) content
+- Defined document structure
+- Developed maintainability guidance
+- Added validation and operational support considerations
+- Created reusable templates and examples
+
+## Skills Demonstrated
+
+- Technical Writing
+- Information Architecture
+- Process Documentation
+- Cross-Functional Collaboration
 
 ## Deliverables
 
-- Team Wiki
-- Script Template
-- Deployment Checklist
+- [Shell Scripting Guidelines PDF](docs/shell-scripting-guidelines.pdf)
