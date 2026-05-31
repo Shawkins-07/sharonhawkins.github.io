@@ -15,7 +15,7 @@ Project professional with experience in:
 
 ### Technical Documentation
 
-- Shell Scripting Guidelines
+- [Shell Scripting Guidelines](shell-scripting-guidelines.html)
 
 ### Process Improvement
 
