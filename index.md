@@ -24,6 +24,12 @@ Developed a team wiki providing guidance for creating maintainable, secure, and 
 
 - [Project Overview](shell-scripting-guidelines.html)
 
+### Documentation Governance & Quality Systems
+
+Developed a proposed documentation governance framework designed to improve content quality, version control, audit readiness, and knowledge management across a regulated IT organization. The framework defined document ownership, approval workflows, metadata standards, review cycles, publication controls, and repository management practices supporting quality management and compliance objectives.
+
+[Controlled Documentation Framework for Enterprise IT]()
+
 ### Process Improvement
 
 Projects coming soon.
