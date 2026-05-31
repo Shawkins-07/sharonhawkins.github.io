@@ -42,7 +42,7 @@ Demonstrates:
 - Knowledge management
 - Strategic thinking
 
-[View Controlled Documentation Framework Case Study] insert case study.html
+[View Controlled Documentation Framework Case Study](controlled-documentation-framework.html)
 
 ### Style Governance Wiki
 
