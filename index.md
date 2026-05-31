@@ -10,7 +10,7 @@ Project professional with experience in:
 - Process improvement
 - Requirements analysis
 - Project coordination
-- [Resume](Sharon_Hawkins_Resume.html)
+- [Sharon Hawkins Resume](resume.html)
 
 
 ## Portfolio
