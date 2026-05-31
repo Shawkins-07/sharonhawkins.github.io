@@ -24,16 +24,44 @@ Areas of focus include:
 
 Technical editing and standards development for operational scripting practices.
 
-- [View Shell Scripting Case Study](shell-scripting-guidelines.html)
+Demonstrates:
+- Technical editing
+- Standards development
+- SME collaboration
+- Information architecture
+
+[View Shell Scripting Case Study](shell-scripting-guidelines.html)
 
 #### Controlled Documentation Framework 
 
 Documentation governance framework supporting content quality, audit readiness, and knowledge management.
 
+Demonstrates:
+- Governance
+- Process improvement
+- Knowledge management
+- Strategic thinking
+
 [View Controlled Documentation Framework Case Study] insert case study.html
 
+### Style Governance Wiki
+
+Demonstrates:
+- Editorial standards
+- Consistency
+- Terminology management
+- Content quality
+
+[View Style Governance Wiki Case Study]
+
 ### GxP Training Program
+
 Training development supporting compliance and operational readiness.
+
+Demonstrates:
+- Training development
+- Regulated environments
+- Knowledge transfer
 
 [ViewGxP Training Case Study](gxp-training.html)
 
