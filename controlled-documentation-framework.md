@@ -1,4 +1,4 @@
-e# Controlled Documentation Framework
+# Controlled Documentation Framework
 
 
 ## Challenge
