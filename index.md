@@ -6,64 +6,37 @@ Welcome to my professional portfolio.
 
 I help organizations improve communication, knowledge transfer, documentation quality, and information governance through technical editing, documentation standards, process design, training development, and knowledge management.
 
-Project professional with experience in:
+My experience spans healthcare IT, pharmaceutical, retail, government contracting, and enterprise technology environments where I have partnered with technical teams, business stakeholders, quality organizations, and leadership to develop scalable documentation frameworks, improve operational processes, and support enterprise transformation initiatives.
+
+Areas of focus include:
 
 - Technical Editing
 - Documentation Governance
 - Knowledge Management
 - Training & Enablement
-- Process Improvement & Analysis
+- Process Improvement & Business Analysis
 
 [View My Resume](DOCS/Sharon Hawkins Tech Ed 2026.pdf)
 
-
-## Portfolio
-
-### Technical Editing
+## Featured Projects
 
 #### Shell Scripting Guidelines
 
-Developed a team wiki providing guidance for creating maintainable, secure, and reliable shell scripts used in operational and automation workflows.
+Technical editing and standards development for operational scripting practices.
 
-- [Project Overview](shell-scripting-guidelines.html)
-
-<!--#### Technical Review & RFP Editing
-
-#### White Paper Editing -->
-
-### Documentation Governance
+- [View Shell Scripting Case Study](shell-scripting-guidelines.html)
 
 #### Controlled Documentation Framework 
 
-Developed a proposed documentation governance framework designed to improve content quality, version control, audit readiness, and knowledge management across a regulated IT organization. The framework defined document ownership, approval workflows, metadata standards, review cycles, publication controls, and repository management practices supporting quality management and compliance objectives.
+Documentation governance framework supporting content quality, audit readiness, and knowledge management.
 
-[Controlled Documentation Framework for Enterprise IT] insert case study
+[View Controlled Documentation Framework Case Study] insert case study.html
 
-#### Style Governance Wiki
+### GxP Training Program
+Training development supporting compliance and operational readiness.
 
-#### Terms & Acronyms
+[ViewGxP Training Case Study](gxp-training.html)
 
-### Knowledge Management
+<!--## Portfolio by Capability-->
 
-#### Terminology Management
-
-#### Repository Design
-
-####Taxonomy & Metadata
-
-### Training & Enablement
-
-#### GxP Training
-
-#### New Hire Training
-
-### Process Improvement & Analysis
-
-#### Documentation Lifecycle Design
-
-#### Workflow Analysis
-
-#### SOP Development
-
-#### Governance Initiatives
 
