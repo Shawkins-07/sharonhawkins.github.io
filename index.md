@@ -28,7 +28,7 @@ Developed a team wiki providing guidance for creating maintainable, secure, and 
 
 Developed a proposed documentation governance framework designed to improve content quality, version control, audit readiness, and knowledge management across a regulated IT organization. The framework defined document ownership, approval workflows, metadata standards, review cycles, publication controls, and repository management practices supporting quality management and compliance objectives.
 
-[Controlled Documentation Framework for Enterprise IT](DOCS/Controlled_Proces_Development_Team_Environment.pdf)
+[Controlled Documentation Framework for Enterprise IT] insert case study
 
 ### Process Improvement
 
