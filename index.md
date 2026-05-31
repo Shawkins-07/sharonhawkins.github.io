@@ -7,8 +7,8 @@ Welcome to my professional portfolio.
 Project professional with experience in:
 
 - Technical documentation
-- Process improvement
 - Requirements analysis
+- Process improvement
 - Project coordination
 
 [View My Resume](DOCS/Sharon Hawkins Tech Ed 2026.pdf)
