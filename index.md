@@ -17,7 +17,9 @@ Areas of focus include:
 - Training & Enablement
 - Process Improvement & Business Analysis
 
-[View My Resume](DOCS/Sharon Hawkins Tech Ed 2026.pdf)
+[View Resume](DOCS/Sharon Hawkins Tech Ed 2026.pdf)
+
+The following projects highlight my experience partnering with technical SMEs, quality teams, and organizational leadership to improve documentation quality, establish governance frameworks, develop training programs, and strengthen knowledge management practices across enterprise technology environments.
 
 ## Featured Projects
 
@@ -25,7 +27,7 @@ Areas of focus include:
 
 Technical editing and standards development for operational scripting practices.
 
-Demonstrates:
+Key Skills:
 - Technical editing
 - Standards development
 - SME collaboration
@@ -37,7 +39,7 @@ Demonstrates:
 
 Documentation governance framework supporting content quality, audit readiness, and knowledge management.
 
-Demonstrates:
+Key Skills:
 - Governance
 - Process improvement
 - Knowledge management
@@ -49,7 +51,7 @@ Demonstrates:
 
 Editorial standards and documentation governance resource promoting consistency, maintainability, and professional communication across technology teams.
 
-Demonstrates:
+Key Skills:
 - Editorial standards
 - Consistency
 - Terminology management
@@ -61,7 +63,7 @@ Demonstrates:
 
 Training development supporting compliance and operational readiness.
 
-Demonstrates:
+Key Skills:
 - Training development
 - Regulated environments
 - Knowledge transfer
