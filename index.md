@@ -20,7 +20,7 @@ Areas of focus include:
 
 ## Featured Projects
 
-#### Shell Scripting Guidelines
+### Shell Scripting Guidelines
 
 Technical editing and standards development for operational scripting practices.
 
@@ -32,7 +32,7 @@ Demonstrates:
 
 [View Shell Scripting Case Study](shell-scripting-guidelines.html)
 
-#### Controlled Documentation Framework 
+### Controlled Documentation Framework 
 
 Documentation governance framework supporting content quality, audit readiness, and knowledge management.
 
