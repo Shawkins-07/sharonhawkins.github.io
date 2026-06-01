@@ -19,7 +19,7 @@ Areas of focus include:
 
 [View Resume](DOCS/Sharon Hawkins Tech Ed 2026.pdf)
 
-The following projects highlight my experience partnering with technical SMEs, quality teams, and organizational leadership to improve documentation quality, establish governance frameworks, develop training programs, and strengthen knowledge management practices across enterprise technology environments.
+The following projects highlight my experience partnering with technical SMEs, quality teams, and leaders to improve documentation quality, establish governance frameworks, develop training programs, and strengthen knowledge management practices across enterprise technology environments.
 
 ## Featured Projects
 
@@ -61,14 +61,15 @@ Key Skills:
 
 ### GxP Training Program
 
-Training development supporting compliance and operational readiness.
+Enterprise compliance training program supporting audit readiness, regulatory requirements, and operational effectiveness.
 
 Key Skills:
 - Training development
 - Regulated environments
 - Knowledge transfer
+- Stakeholder collaboration
 
-[ViewGxP Training Case Study](gxp-training.html)
+[View GxP Training Case Study](gxp-training.html)
 
 <!--## Portfolio by Capability-->
 
