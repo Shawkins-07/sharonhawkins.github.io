@@ -1,4 +1,5 @@
 # Sharon Hawkins
+## Technical Editor | Documentation Governance | Knowledge Management
 
 Welcome to my professional portfolio.
 
