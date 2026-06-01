@@ -71,6 +71,20 @@ Key Skills:
 
 [View GxP Training Case Study](gxp-training.html)
 
+## Additional Experience
+
+Beyond the featured projects above, my portfolio includes work in:
+
+- Terminology Management
+- Documentation Standards
+- Knowledge Repositories
+- Process Analysis
+- SOP Development
+- Technical Training
+- Quality & Compliance Support
+
+
+
 <!--## Portfolio by Capability-->
 
 
