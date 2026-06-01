@@ -47,6 +47,8 @@ Demonstrates:
 
 ### Style Governance Wiki
 
+Editorial standards and documentation governance resource promoting consistency, maintainability, and professional communication across technology teams.
+
 Demonstrates:
 - Editorial standards
 - Consistency
