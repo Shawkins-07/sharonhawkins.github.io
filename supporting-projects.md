@@ -6,11 +6,12 @@ In addition to the featured projects highlighted throughout this portfolio, the 
 
 ### Overview
 
-Developed a centralized technology onboarding guide that helped new employees navigate enterprise systems, support resources, communication tools, and corporate technology services.
+Developed a centralized technology onboarding guide that consolidated enterprise systems, support resources, communication tools, and technology services into a single reference resource for new employees.
 
 ### Demonstrated Skills
 
 - Technical writing
+- Training Support
 - Knowledge management
 - Information architecture
 - User-focused communication
@@ -19,8 +20,8 @@ Developed a centralized technology onboarding guide that helped new employees na
 
 - Consolidated information from multiple technology teams
 - Created self-service support resources
-- Developed onboarding reference materials
-- Improved consistency of new employee technology onboarding
+- Reduced information fragmentation
+- Improved employee access to technology support resources
 
 ## Terminology Management Initiative
 
