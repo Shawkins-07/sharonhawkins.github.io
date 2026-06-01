@@ -1,16 +1,44 @@
 # GxP Training
 
+## Overview
 
-## Challenge
-Company had no prior GxP training materials and were in the middle of an audit. To pass, I had to develop training content and administer it to about 500 employees.
+Developed and delivered a GxP training program to prepare IT personnel for regulatory compliance requirements during a critical audit readiness initiative. The program translated complex quality and regulatory concepts into practical guidance that employees could understand and apply within their daily responsibilities.
 
-## Approach
+## Business Need
 
-Researched GxP, governance framework, and best approach to training IT professionals. Developed training slide deck and quizzes to demonstrate content understanding.
+The organization was undergoing a regulatory audit and had no existing GxP training program for IT personnel. To support audit readiness and compliance objectives, the company needed a scalable training solution that could be rapidly developed, deployed, and documented for a large employee population.
 
-## Outcome
+## Audience
 
-Successfully trained about 500 IT professionals in GxP to satisfy audit with test scores of 80% and up.
+- IT Professionals
+- System Administrators
+- Developers
+- Infrastructure Teams
+- Technology Leadership
+
+## My Contributions
+
+- Researched GxP regulations, quality management principles, and audit expectations.
+- Collaborated with quality and compliance stakeholders to identify training requirements.
+- Designed and developed training materials, instructional content, and knowledge assessments.
+- Created quizzes and evaluation methods to verify participant understanding.
+- Coordinated and administered training for approximately 500 employees.
+- Maintained documentation supporting compliance and audit readiness efforts.
+
+## Results
+
+Successfully developed and deployed the organization's first GxP training program during an active audit readiness effort. Approximately 500 IT employees completed training and demonstrated comprehension through assessment scores meeting established compliance thresholds. The initiative helped establish a documented training framework supporting regulatory expectations and audit preparedness.
+
+## Skills Demonstrated
+
+- Training Development
+- Technical Communication
+- Compliance Documentation
+- Knowledge Transfer
+- Stakeholder Collaboration
+- Audit Readiness
+- Process Development
+- Change Management
 
 ## Evidence 
 
