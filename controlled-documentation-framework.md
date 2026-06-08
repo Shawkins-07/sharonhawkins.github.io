@@ -1,5 +1,18 @@
 # Controlled Documentation Framework for Technical Environments
 
+## Documentation Governance System for Technical Environments
+
+A structured governance model for improving consistency, ownership, and lifecycle management across technical documentation in distributed engineering environments. This framework defines standards for documentation structure, clarity, and maintenance to support scalable knowledge systems across cloud and enterprise platforms.
+
+Key Skills:
+
+- Documentation governance
+- Information architecture
+- Knowledge systems design
+- Technical communication standards
+- Process and lifecycle management
+
+[View Framework: Controlled Documentation Framework Case Study](DOCS/Controlled_Documentation_Framework.pdf)
 
 ## Challenge
 
@@ -103,10 +116,6 @@ When applied effectively, this framework enables:
 - Greater alignment between engineering and operations teams
 - Scalable documentation systems that support distributed environments
 - Increased reliability of technical information across stakeholders
-
-## Evidence 
-
-[Controlled Documentation Framework](DOCS/Controlled_Documentation_Framework.pdf)
 
 ## Closing Note
 
