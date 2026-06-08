@@ -34,15 +34,15 @@ This documentation governance model is designed to:
 
 1. Single Source of Truth
 
-Each documentation asset should exist in one authoritative location to prevent conflicting or outdated information across teams.
+  Each documentation asset should exist in one authoritative location to prevent conflicting or outdated information across teams.
 
 2. Structured Ownership
 
-Every document or knowledge area must have a clearly defined owner responsible for accuracy, updates, and lifecycle management.
+  Every document or knowledge area must have a clearly defined owner responsible for accuracy, updates, and lifecycle management.
 
 3. Audience-Aware Writing
 
-Documentation should be structured to support multiple audiences, including:
+  Documentation should be structured to support multiple audiences, including:
 
 - Engineering teams
 - Operations teams
@@ -51,7 +51,7 @@ Documentation should be structured to support multiple audiences, including:
 
 4. Lifecycle Management
 
-All documentation should follow a defined lifecycle:
+  All documentation should follow a defined lifecycle:
 
 - Creation
 - Review
@@ -61,7 +61,7 @@ All documentation should follow a defined lifecycle:
 
 5. Consistent Structure
 
-Standard templates should be used to ensure consistency in:
+  Standard templates should be used to ensure consistency in:
 
 - Terminology
 - Formatting
