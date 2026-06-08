@@ -17,8 +17,6 @@ Areas of focus include:
 - Training & Enablement
 - Process Improvement & Business Analysis
 
-[View Resume](DOCS/Sharon Hawkins Tech Ed 2026.pdf)
-
 The following projects highlight my experience partnering with technical SMEs, quality teams, and leaders to improve documentation quality, establish governance frameworks, develop training programs, and strengthen knowledge management practices across enterprise technology environments.
 
 ## Featured Projects
