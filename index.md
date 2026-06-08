@@ -24,49 +24,53 @@ The following projects highlight my experience partnering with technical SMEs, q
 
 ### Shell Scripting Guidelines
 
-Technical editing and standards development for operational scripting practices.
+Infrastructure Documentation & Technical Standards (Shell Scripting Guidelines)
+Technical editing and standards development for operational scripting practices used in infrastructure and system environments.
 
 Key Skills:
 - Technical editing
 - Standards development
 - SME collaboration
-- Information architecture
+- Operational system documentation
 
 [View Shell Scripting Case Study](shell-scripting-guidelines.html)
 
 ### Controlled Documentation Framework 
 
-Documentation governance framework supporting content quality, audit readiness, and knowledge management.
+Documentation Governance System for Enterprise Technical Environments
+Documentation governance framework supporting content quality, audit readiness, and structured knowledge management across technical systems and operational workflows.
 
 Key Skills:
-- Governance
+- Documentation governance
+- Knowledge systems design
 - Process improvement
-- Knowledge management
-- Strategic thinking
+- Information architecture
 
 [View Controlled Documentation Framework Case Study](controlled-documentation-framework.html)
 
 ### Style Governance Wiki
 
-Editorial standards and documentation governance resource promoting consistency, maintainability, and professional communication across technology teams.
+Technical Communication Standards for Enterprise Engineering Teams
+Editorial standards and documentation governance system promoting consistency and clarity across distributed technical teams and enterprise environments.
 
 Key Skills:
 - Editorial standards
-- Consistency
-- Terminology management
-- Content quality
+- Terminology consistency
+- Content governance
+- Cross-team alignment
 
 [View Style Governance Wiki Case Study](style-governance-wiki.md) 
 
 ### GxP Training Program
 
-Enterprise compliance training program supporting audit readiness, regulatory requirements, and operational effectiveness.
+Technical Training & Compliance Enablement for Regulated Systems Environments
+Enterprise training program supporting compliance readiness, operational understanding, and knowledge transfer in regulated technical environments.
 
 Key Skills:
 - Training development
-- Regulated environments
-- Knowledge transfer
+- Knowledge transfer systems
 - Stakeholder collaboration
+- Regulated systems documentation 
 
 [View GxP Training Case Study](gxp-training.html)
 
