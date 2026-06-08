@@ -1,5 +1,6 @@
 # Sharon Hawkins
-### Technical Editor | Documentation Strategist | Knowledge Management
+### Technical Communications | Enterprise Knowledge Systems | Infrastructure Documentation | 
+Partner Enablement & Content Governance
 
 Welcome to my professional portfolio.
 
