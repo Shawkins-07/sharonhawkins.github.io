@@ -6,9 +6,9 @@ Welcome to my professional portfolio.
 
 ## About Me
 
-I help organizations improve communication, knowledge transfer, documentation quality, and information governance through technical editing, documentation standards, process design, training development, and knowledge management.
+I specialize in technical communications and documentation systems that support distributed infrastructure environments, helping engineering and operations teams translate complex system behavior into clear, consistent, and scalable knowledge for internal and external stakeholders.
 
-My experience spans healthcare IT, pharmaceutical, retail, government contracting, and enterprise technology environments where I have partnered with technical teams, business stakeholders, quality organizations, and leadership to develop scalable documentation frameworks, improve operational processes, and support enterprise transformation initiatives.
+My work focuses on documentation governance, information architecture, and knowledge systems that improve clarity, reduce fragmentation, and support reliable communication across cloud platforms, enterprise systems, and multi-team engineering environments.
 
 Areas of focus include:
 
