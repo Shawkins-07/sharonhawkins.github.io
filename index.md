@@ -3,11 +3,13 @@
 
 ## About Me
 
+Technical communication leader specializing in documentation governance, knowledge systems, technical editing, and information architecture for enterprise technology environments.
+
 I design and structure technical communication systems for distributed engineering environments, helping organizations translate complex infrastructure and operational concepts into clear, consistent, and scalable documentation.
 
 My work focuses on documentation governance, information architecture, and knowledge systems that support cloud platforms, enterprise systems, and multi-team technical environments.
 
-Throughout my career, I have actively shared knowledge and mentored colleagues, helping teams improve documentation quality, establish sustainable practices, and create more effective approaches to knowledge management and technical communication.
+Throughout my career, I have frequently served as a documentation lead and mentor, helping teams improve content quality, establish documentation standards, and develop scalable knowledge practices that support long-term organizational effectiveness.
 
 ## Skills
 
