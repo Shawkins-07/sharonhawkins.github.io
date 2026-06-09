@@ -1,11 +1,13 @@
 # Sharon Hawkins
-### Technical Communications | Enterprise Knowledge Systems | Infrastructure Documentation | Partner Enablement & Content Governance
+### Technical Communications | Enterprise Knowledge Systems | Infrastructure Documentation | Content Governance
 
 ## About Me
 
 I design and structure technical communication systems for distributed engineering environments, helping organizations translate complex infrastructure and operational concepts into clear, consistent, and scalable documentation.
 
 My work focuses on documentation governance, information architecture, and knowledge systems that support cloud platforms, enterprise systems, and multi-team technical environments.
+
+I feel very srongly about these information areas, and I have shared my knowledge at every job I've had by demonstrating value-added skills and mentoring whereever I can.
 
 ## Skills
 
@@ -27,7 +29,7 @@ Partner Enablement | Stakeholder Management | Cross-Functional Collaboration | C
 
 ## Projects
 
-The following projects highlight my experience partnering with technical SMEs, quality teams, and leaders to improve documentation quality, establish governance frameworks, develop training programs, and strengthen knowledge management practices across enterprise technology environments.
+The following projects demonstrate approaches used to improve technical communication, documentation governance, knowledge transfer, and content quality across enterprise technology and engineering environments.
 
 ## Featured Projects
 
