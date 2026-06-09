@@ -2,46 +2,6 @@
 
 In addition to the featured projects highlighted throughout this portfolio, the following initiatives demonstrate broader experience supporting documentation governance, knowledge management, training, process improvement, and operational excellence across enterprise technology environments.
 
-## Enterprise Technology Onboarding Guide
-
-### Overview
-
-Developed a centralized technology onboarding guide that consolidated enterprise systems, support resources, communication tools, and technology services into a single reference resource for new employees.
-
-### Demonstrated Skills
-
-- Technical writing
-- Training Support
-- Knowledge management
-- Information architecture
-- User-focused communication
-
-### Key Contributions
-
-- Consolidated information from multiple technology teams
-- Created self-service support resources
-- Reduced information fragmentation
-- Improved employee access to technology support resources
-
-## Terminology Management Initiative
-
-### Overview
-
-Established terminology standards and controlled vocabulary resources to improve consistency across technical documentation, training materials, and organizational communications.
-
-### Demonstrated Skills
-
-- Editorial standards
-- Knowledge management
-- Content governance
-- Information architecture
-
-### Key Contributions
-
-- Defined preferred terminology
-- Reduced inconsistent language usage
-- Improved content quality and maintainability
-
 ## Documentation Lifecycle Design
 
 ## Overview
@@ -62,11 +22,51 @@ Defined documentation processes supporting content creation, review, approval, p
 - Improved content governance practices
 - Supported audit readiness
 
-## SOP Development
+## Technical Systems Onboarding Framework
 
 ### Overview
 
-Created and edited standard operating procedures supporting technology operations, quality initiatives, and organizational process standardization efforts.
+Developed a centralized knowledge resource consolidating enterprise systems, support services, communication platforms, and operational resources into a structured self-service reference for new technical staff.
+
+### Demonstrated Skills
+
+- Technical writing
+- Training Support
+- Knowledge management
+- Information architecture
+- User-focused communication
+
+### Key Contributions
+
+- Consolidated information from multiple technology teams
+- Created self-service support resources
+- Reduced information fragmentation
+- Improved employee access to technology support resources
+
+## Technical Terminology Governance
+
+### Overview
+
+Established controlled vocabulary standards and terminology governance practices to improve consistency across technical documentation, knowledge systems, training materials, and cross-functional communications.
+
+### Demonstrated Skills
+
+- Editorial standards
+- Knowledge management
+- Content governance
+- Information architecture
+
+### Key Contributions
+
+- Defined preferred terminology
+- Reduced inconsistent language usage
+- Improved content quality and maintainability
+
+## Operational Documentation Development
+
+### Overview
+
+Created and edited operational documentation supporting technology operations, service delivery, quality initiatives, and process standardization efforts.
 
 ### Demonstrated Skills
 
