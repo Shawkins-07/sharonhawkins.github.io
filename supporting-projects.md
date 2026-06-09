@@ -31,8 +31,8 @@ Developed a centralized knowledge resource consolidating enterprise systems, sup
 ### Demonstrated Skills
 
 - Technical writing
-- Training Support
-- Knowledge management
+- Training support
+- Knowledge systems
 - Information architecture
 - User-focused communication
 
@@ -52,7 +52,7 @@ Established controlled vocabulary standards and terminology governance practices
 ### Demonstrated Skills
 
 - Editorial standards
-- Knowledge management
+- Knowledge architecture
 - Content governance
 - Information architecture
 
