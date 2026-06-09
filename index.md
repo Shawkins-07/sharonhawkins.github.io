@@ -1,43 +1,39 @@
 # Sharon Hawkins
-### Technical Communications | Enterprise Knowledge Systems | Infrastructure Documentation | 
-Partner Enablement & Content Governance
-
-Welcome to my professional portfolio.
+### Technical Communications | Enterprise Knowledge Systems | Infrastructure Documentation | Partner Enablement & Content Governance
 
 ## About Me
 
-I specialize in technical communications and documentation systems that support distributed infrastructure environments, helping engineering and operations teams translate complex system behavior into clear, consistent, and scalable knowledge for internal and external stakeholders.
+I design and structure technical communication systems for distributed engineering environments, helping organizations translate complex infrastructure and operational concepts into clear, consistent, and scalable documentation.
 
-My work focuses on documentation governance, information architecture, and knowledge systems that improve clarity, reduce fragmentation, and support reliable communication across cloud platforms, enterprise systems, and multi-team engineering environments.
+My work focuses on documentation governance, information architecture, and knowledge systems that support cloud platforms, enterprise systems, and multi-team technical environments.
 
-Areas of focus include:
+## Skills
 
-- Technical Editing
-- Documentation Governance
-- Knowledge Management
-- Training & Enablement
-- Process Improvement & Business Analysis
+### Technical Communication & Documentation Systems
+
+Technical Communications | Documentation Strategy | Technical Editing | API Documentation | Operational Runbooks
+
+### Knowledge & Information Architecture
+
+Knowledge Systems Design | Enterprise Knowledge Systems | Content Lifecycle Management | Information Architecture | Taxonomy Design | Documentation Governance
+
+### Infrastructure & Distributed Systems Communication
+
+Cloud Infrastructure Documentation | Distributed Systems Documentation | System Workflow Documentation | Engineering Communication Enablement | Technical Messaging for Platform Teams
+
+### Program & Cross-Functional Enablement
+
+Partner Enablement | Stakeholder Management | Cross-Functional Collaboration | Change Management | Discovery Workshops | Process Documentation
+
+## Projects
 
 The following projects highlight my experience partnering with technical SMEs, quality teams, and leaders to improve documentation quality, establish governance frameworks, develop training programs, and strengthen knowledge management practices across enterprise technology environments.
 
 ## Featured Projects
 
-### Shell Scripting Guidelines
-
-Infrastructure Documentation & Technical Standards (Shell Scripting Guidelines)
-Technical editing and standards development for operational scripting practices used in infrastructure and system environments.
-
-Key Skills:
-- Technical editing
-- Standards development
-- SME collaboration
-- Operational system documentation
-
-[View Shell Scripting Case Study](shell-scripting-guidelines.html)
-
 ### Controlled Documentation Framework 
 
-Documentation Governance System for Enterprise Technical Environments
+#### Documentation Governance System for Enterprise Technical Environments
 Documentation governance framework supporting content quality, audit readiness, and structured knowledge management across technical systems and operational workflows.
 
 Key Skills:
@@ -50,7 +46,8 @@ Key Skills:
 
 ### Style Governance Wiki
 
-Technical Communication Standards for Enterprise Engineering Teams
+#### Technical Communication Standards for Engineering Teams in Distributed Systems Environments
+
 Editorial standards and documentation governance system promoting consistency and clarity across distributed technical teams and enterprise environments.
 
 Key Skills:
@@ -61,9 +58,23 @@ Key Skills:
 
 [View Style Governance Wiki Case Study](style-governance-wiki.md) 
 
+### Shell Scripting Guidelines
+
+#### Infrastructure Documentation Standards for Operational System Environments
+
+Technical editing and standards development for operational scripting practices used in infrastructure and system environments.
+
+Key Skills:
+- Technical editing
+- Standards development
+- SME collaboration
+- Operational system documentation
+
+[View Shell Scripting Case Study](shell-scripting-guidelines.html)
+
 ### GxP Training Program
 
-Technical Training & Compliance Enablement for Regulated Systems Environments
+#### Technical Training & Knowledge Transfer System for Regulated Enterprise Environments
 Enterprise training program supporting compliance readiness, operational understanding, and knowledge transfer in regulated technical environments.
 
 Key Skills:
