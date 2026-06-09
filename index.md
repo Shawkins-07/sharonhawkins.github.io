@@ -7,7 +7,7 @@ I design and structure technical communication systems for distributed engineeri
 
 My work focuses on documentation governance, information architecture, and knowledge systems that support cloud platforms, enterprise systems, and multi-team technical environments.
 
-I feel very srongly about these information areas, and I have shared my knowledge at every job I've had by demonstrating value-added skills and mentoring whereever I can.
+Throughout my career, I have actively shared knowledge and mentored colleagues, helping teams improve documentation quality, establish sustainable practices, and create more effective approaches to knowledge management and technical communication.
 
 ## Skills
 
